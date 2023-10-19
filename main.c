@@ -9,6 +9,7 @@ void f(void);
 int i;
 int main(void)
 {
+	int i;
 	for (i=0; i<5; i++)
 	{
 		f();
